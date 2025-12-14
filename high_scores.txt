@@ -1,0 +1,5 @@
+zain|30|IQ|Medium
+Hassan|-14|Computer|Easy
+subhan|-50|Computer|Hard
+gg|-20|Computer|Easy
+subhan|-12|Science|Easy

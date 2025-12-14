@@ -1,0 +1,151 @@
+Which sport is known as the “king of sports”?|Cricket|Football|Tennis|Hockey|2|1
+How many players are on a football team on the field?|9|10|11|12|3|1
+Which country won the first FIFA World Cup?|Brazil|Uruguay|Germany|Argentina|2|1
+In which sport do players use a racket to hit a shuttlecock?|Badminton|Tennis|Squash|Table Tennis|1|1
+How many points is a touchdown worth in American football?|3|6|7|5|2|1
+Which sport uses a bow and arrow?|Archery|Shooting|Javelin|Fencing|1|1
+How many players are there in a basketball team on the court?|5|6|7|11|1|1
+Which country hosted the 2016 Summer Olympics?|China|Brazil|UK|Russia|2|1
+In cricket, what is a “duck”?|Zero runs|One run|Two wickets|Four runs|1|1
+Which sport is played at Wimbledon?|Tennis|Golf|Badminton|Squash|1|1
+How many minutes are there in a standard football match?|80|90|100|120|2|1
+Which sport uses a puck?|Hockey|Lacrosse|Football|Basketball|1|1
+Which country is famous for sumo wrestling?|China|Japan|Korea|Thailand|2|1
+How many players are on a volleyball team on the court?|6|5|7|8|1|1
+Which sport uses a javelin?|Javelin throw|Shot put|Discus|Hammer throw|1|1
+Which country won the first Cricket World Cup in 1975?|India|West Indies|Australia|England|2|1
+In basketball, how many points is a free throw worth?|1|2|3|4|1|1
+Which sport is also called “ping pong”?|Badminton|Table Tennis|Squash|Tennis|2|1
+Which country is known as the birthplace of football?|Germany|England|France|Brazil|2|1
+Which sport is played on ice using skates?|Ice Hockey|Skiing|Curling|Figure Skating|1|1
+How many holes are there in a standard golf course?|9|12|18|24|3|1
+Which sport uses a shuttlecock?|Badminton|Tennis|Squash|Table Tennis|1|1
+In which sport is the term “love” used?|Tennis|Football|Cricket|Basketball|1|1
+Which country has won the most FIFA World Cups?|Brazil|Germany|Italy|Argentina|1|1
+Which sport uses a pommel horse?|Gymnastics|Athletics|Weightlifting|Wrestling|1|1
+How many players are there in a rugby team on the field?|13|15|11|14|2|1
+Which country is famous for basketball legends Michael Jordan and LeBron James?|USA|Canada|Spain|Brazil|1|1
+Which sport uses a disc called a “frisbee”?|Ultimate|Basketball|Football|Tennis|1|1
+How many points is a goal worth in hockey?|1|2|3|4|1|1
+Which sport uses a bat and ball and has innings?|Cricket|Football|Tennis|Hockey|1|1
+Which country hosted the 2018 FIFA World Cup?|Russia|Brazil|Germany|South Africa|1|1
+Which sport involves riding waves?|Surfing|Sailing|Rowing|Swimming|1|1
+Which country is famous for table tennis champions like Ma Long?|China|Japan|South Korea|Germany|1|1
+Which sport has events called sprint, hurdles, and marathon?|Athletics|Swimming|Gymnastics|Cycling|1|1
+Which sport uses a puck and sticks on ice?|Ice Hockey|Curling|Lacrosse|Football|1|1
+How many sets are played in a standard tennis match (men’s Grand Slam)?|3|4|5|2|3|1
+Which sport is played in the pool using a ball and goals?|Water Polo|Swimming|Diving|Synchronized Swimming|1|1
+Which sport uses a racket and a small ball on a rectangular table?|Table Tennis|Badminton|Tennis|Squash|1|1
+Which country is famous for rugby|New Zealand|Australia|England|South Africa|1|1
+Which country has won the most Olympic gold medals overall?|USA|China|Russia|Germany|1|1
+Which sport involves skiing and jumping off ramps?|Ski Jumping|Snowboarding|Ice Skating|Bobsleigh|1|1
+Which country won the 2019 Cricket World Cup?|England|India|Australia|New Zealand|1|1
+Which sport uses a helmet, pads, and an oval ball in the USA?|American Football|Rugby|Soccer|Basketball|1|1
+Which country is famous for cricket legends Sachin Tendulkar and Virat Kohli?|India|Australia|Pakistan|England|1|1
+Which sport is played with a net, ball, and 2 teams of 11 players?|Football|Basketball|Volleyball|Handball|1|1
+Which sport has “halftime” in its match?|Football|Tennis|Athletics|Swimming|1|1
+Which sport uses a shot put?|Athletics|Weightlifting|Gymnastics|Boxing|1|1
+Which sport is played in lanes using sticks on a grass field?|Hockey|Football|Cricket|Rugby|1|1
+Which country is famous for marathon runner Eliud Kipchoge?|Kenya|Ethiopia|USA|Germany|1|1
+Which sport uses a puck, a goal, and skates?|Ice Hockey|Lacrosse|Basketball|Handball|1|1
+Which country won the 2014 FIFA World Cup?|Brazil|Germany|Argentina|Spain|2|2
+How many points is a touchdown worth in American football?|3|6|7|5|2|2
+Which player is famous for the “Hand of God” goal in football?|Pele|Diego Maradona|Lionel Messi|Cristiano Ronaldo|2|2
+Which country hosted the 2012 Summer Olympics?|UK|China|Brazil|Russia|1|2
+Which tennis player has won the most Grand Slam titles?|Roger Federer|Rafael Nadal|Novak Djokovic|Pete Sampras|1|2
+Which country has won the most Rugby World Cups?|New Zealand|Australia|England|South Africa|1|2
+How many overs are in a standard One Day International cricket match?|20|50|60|40|2|2
+Which country won the 2018 FIFA World Cup?|Russia|France|Croatia|Belgium|2|2
+Which basketball player is nicknamed “The King”?|Michael Jordan|LeBron James|Kobe Bryant|Magic Johnson|2|2
+Which country is known as the birthplace of modern football?|England|Germany|Brazil|Italy|1|2
+Which sport is known as the “Sweet Science”?|Boxing|Wrestling|MMA|Judo|1|2
+Which sport uses a “tee” for starting?|Golf|Baseball|Cricket|Rugby|1|2
+Which country won the first FIFA Women’s World Cup?|USA|Norway|Germany|Brazil|1|2
+How many players are on a rugby sevens team?|7|8|10|11|1|2
+Which country has the most Olympic gold medals in basketball?|USA|Spain|Argentina|France|1|2
+Which player holds the record for most goals in a single World Cup?|Just Fontaine|Miroslav Klose|Ronaldo|Pele|1|2
+Which sport uses a shuttlecock?|Badminton|Tennis|Table Tennis|Squash|1|2
+Which country won the ICC T20 World Cup in 2022?|England|India|Pakistan|Australia|4|2
+Which position in football is responsible for scoring goals most often?|Goalkeeper|Defender|Midfielder|Forward|4|2
+Which country hosted the 2010 FIFA World Cup?|South Africa|Brazil|Germany|Spain|1|2
+Which tennis Grand Slam is played on clay?|Australian Open|French Open|Wimbledon|US Open|2|2
+Which country is famous for producing cricket legends like Sir Vivian Richards?|West Indies|India|Australia|England|1|2
+How many points is a field goal worth in American football?|2|3|6|1|2|2
+Which sport is played on a diamond-shaped field with bases?|Baseball|Cricket|Rugby|Softball|1|2
+Which country has won the most Olympic gold medals in football (soccer)?|Hungary|USA|Brazil|Germany|3|2
+Which country is known for its dominance in table tennis?|China|Japan|South Korea|Germany|1|2
+Which country won the Rugby World Cup 2019?|New Zealand|South Africa|England|Australia|2|2
+Which cricket player is known as “The God of Cricket”?|Brian Lara|Sachin Tendulkar|Ricky Ponting|Jacques Kallis|2|2
+Which sport has positions called pitcher, catcher, and batter?|Baseball|Softball|Cricket|Hockey|1|2
+Which country has hosted the most Summer Olympics?|USA|UK|France|Germany|1|2
+Which country won the 2019 Cricket World Cup?|England|India|Australia|New Zealand|1|2
+Which sport uses the terms “love”, “deuce”, and “ace”?|Tennis|Badminton|Table Tennis|Squash|1|2
+Which country is famous for rugby legends like Richie McCaw?|New Zealand|Australia|South Africa|England|1|2
+Which sport involves dribbling, shooting, and slam dunks?|Basketball|Football|Handball|Netball|1|2
+Which country hosted the 2008 Summer Olympics?|China|UK|Greece|Australia|1|2
+Which football player won the 2022 FIFA Ballon d’Or?|Lionel Messi|Cristiano Ronaldo|Kylian Mbappe|Robert Lewandowski|1|2
+Which country won the 2018 ICC Cricket World Cup?|England|India|Australia|New Zealand|1|2
+Which country has won the most Rugby World Cups in history?|New Zealand|South Africa|Australia|England|1|2
+Which country is famous for producing sumo wrestlers?|Japan|China|Korea|Thailand|1|2
+Which sport has positions called fullback, winger, and scrum-half?|Rugby|Football|Basketball|Hockey|1|2
+Which country won the 2015 FIFA Women’s World Cup?|USA|Japan|Germany|Brazil|1|2
+Which sport uses a bow and arrow for scoring points?|Archery|Shooting|Fencing|Javelin|1|2
+Which player is considered the GOAT of basketball with 6 NBA titles?|Michael Jordan|LeBron James|Kobe Bryant|Tim Duncan|1|2
+Which country hosted the 2006 FIFA World Cup?|Germany|Brazil|Italy|France|1|2
+Which sport uses a puck and ice skates?|Ice Hockey|Lacrosse|Field Hockey|Curling|1|2
+Which country won the 2019 FIFA Women’s World Cup?|USA|Netherlands|England|Germany|1|2
+Which player is famous for scoring “The Hand of God” goal?|Diego Maradona|Lionel Messi|Cristiano Ronaldo|Pele|1|2
+Which country won the first Rugby World Cup?|New Zealand|Australia|England|France|1|2
+Which country won the 2011 Cricket World Cup?|India|Australia|Sri Lanka|Pakistan|1|2
+Which sport uses a shuttlecock and rackets?|Badminton|Tennis|Squash|Table Tennis|1|2
+Which country won the 1930 FIFA World Cup?|Uruguay|Brazil|Argentina|Germany|1|3
+Which athlete holds the record for most Olympic gold medals?|Usain Bolt|Michael Phelps|Carl Lewis|Mark Spitz|2|3
+Which country hosted the first modern Olympics in 1896?|Greece|France|UK|USA|1|3
+Which football club has won the most UEFA Champions League titles?|Real Madrid|AC Milan|Liverpool|Barcelona|1|3
+Which country won the first Rugby World Cup in 1987?|New Zealand|Australia|England|France|1|3
+Which tennis player completed the Golden Slam (all 4 majors + Olympic gold)?|Roger Federer|Steffi Graf|Serena Williams|Rafael Nadal|2|3
+Which country has the highest number of World Cup wins in men’s football?|Brazil|Germany|Italy|Argentina|1|3
+Which NBA team won the 2020 championship?|Los Angeles Lakers|Miami Heat|Golden State Warriors|Toronto Raptors|1|3
+Which athlete is known as “The Flying Finn” in track and field?|Paavo Nurmi|Carl Lewis|Usain Bolt|Jesse Owens|1|3
+Which country won the ICC Cricket World Cup 2011?|India|Australia|Sri Lanka|Pakistan|1|3
+Which country is famous for producing legendary footballer Diego Maradona?|Argentina|Brazil|Germany|Italy|1|3
+Which country won the FIFA Women’s World Cup 2019?|USA|Netherlands|England|Germany|1|3
+Which Formula 1 driver has the most World Championships?|Lewis Hamilton|Michael Schumacher|Sebastian Vettel|Ayrton Senna|2|3
+Which sport uses the term “scrum”?|Rugby|Football|Basketball|Hockey|1|3
+Which country hosted the FIFA World Cup 2002?|Japan|South Korea|Brazil|Germany|2|3
+Which player scored the “Goal of the Century” in 1986?|Diego Maradona|Pele|Lionel Messi|Cristiano Ronaldo|1|3
+Which sport uses the term “slam dunk”?|Basketball|Tennis|Football|Volleyball|1|3
+Which country has won the most Olympic gold medals in swimming?|USA|Australia|Germany|Russia|1|3
+Which country hosted the 1992 Summer Olympics?|Spain|USA|Australia|Greece|1|3
+Which footballer won 6 Ballon d’Or awards by 2023?|Lionel Messi|Cristiano Ronaldo|Michel Platini|Johan Cruyff|1|3
+Which country won the first Cricket World Cup in 1975?|West Indies|Australia|India|England|1|3
+Which player is known as “The King of Clay” in tennis?|Rafael Nadal|Roger Federer|Novak Djokovic|Bjorn Borg|1|3
+Which country has won the most Rugby World Cups overall?|New Zealand|South Africa|Australia|England|1|3
+Which sport uses a “pommel horse”?|Gymnastics|Athletics|Weightlifting|Wrestling|1|3
+Which country won the ICC T20 World Cup 2022?|England|India|Pakistan|Australia|4|3
+Which country won the 1998 FIFA World Cup?|France|Brazil|Germany|Italy|1|3
+Which sport involves hammer, discus, and shot put?|Athletics|Weightlifting|Gymnastics|Track Cycling|1|3
+Which country has won the most FIFA Women’s World Cups?|USA|Germany|Norway|Japan|1|3
+Which tennis Grand Slam is played on grass?|Wimbledon|US Open|French Open|Australian Open|1|3
+Which athlete set the 100m world record at 9.58 seconds?|Usain Bolt|Carl Lewis|Justin Gatlin|Yohan Blake|1|3
+Which country won the first Rugby World Cup Sevens?|New Zealand|Australia|England|Fiji|4|3
+Which footballer scored 5 goals in a single World Cup match?|Just Fontaine|Pele|Gerd Muller|Ronaldo|1|3
+Which country hosted the 2014 Winter Olympics?|Russia|Canada|Norway|USA|1|3
+Which player holds the record for most goals in UEFA Champions League?|Cristiano Ronaldo|Lionel Messi|Raul|Robert Lewandowski|1|3
+Which sport uses a “blitz” as a strategy?|American Football|Rugby|Basketball|Hockey|1|3
+Which country won the 2003 Rugby World Cup?|England|New Zealand|Australia|South Africa|1|3
+Which country hosted the 1980 Summer Olympics?|USSR|USA|Germany|Japan|1|3
+Which cricket player is nicknamed “The Wall”?|Rahul Dravid|Sachin Tendulkar|Brian Lara|Jacques Kallis|1|3
+Which country is famous for ice hockey legends like Wayne Gretzky?|Canada|USA|Russia|Sweden|1|3
+Which athlete won 8 gold medals in a single Olympics?|Michael Phelps|Carl Lewis|Mark Spitz|Usain Bolt|1|3
+Which football club has won the most English Premier League titles?|Manchester United|Liverpool|Arsenal|Chelsea|1|3
+Which player is the all-time top scorer in La Liga?|Lionel Messi|Cristiano Ronaldo|Telmo Zarra|Raul|1|3
+Which country hosted the first FIFA World Cup in 1930?|Uruguay|Brazil|Argentina|Italy|1|3
+Which country won the 2015 Rugby World Cup?|New Zealand|Australia|South Africa|England|1|3
+Which sport uses the term “hat-trick”?|Cricket|Football|Hockey|All of the above|4|3
+Which player scored 91 goals in international football, breaking Pele’s record?|Cristiano Ronaldo|Lionel Messi|Ali Daei|Ferenc Puskas|1|3
+Which country hosted the 2018 Winter Olympics?|South Korea|Japan|Canada|Norway|1|3
+Which sport involves a pommel horse, rings, and vault?|Gymnastics|Athletics|Weightlifting|Swimming|1|3
+Which player is nicknamed “Air Jordan”?|Michael Jordan|LeBron James|Kobe Bryant|Magic Johnson|1|3
+Which country won the ICC Cricket T20 World Cup in 2007?|India|Pakistan|Australia|South Africa|1|3
+

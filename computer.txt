@@ -1,0 +1,151 @@
+What does CPU stand for?|Central Process Unit|Central Processing Unit|Computer Personal Unit|Control Processing Unit|2|1
+Which device is used to input data into a computer?|Keyboard|Monitor|Printer|Speaker|1|1
+Which part of the computer stores data permanently?|RAM|ROM|CPU|Cache|2|1
+Which device is used to display output from a computer?|Monitor|Keyboard|Mouse|Printer|1|1
+What is the brain of the computer?|Hard Disk|CPU|RAM|Motherboard|2|1
+Which storage device is removable and portable?|HDD|SSD|USB Flash Drive|RAM|3|1
+Which type of software controls computer hardware?|Application software|System software|Utility software|Driver software|2|1
+What does RAM stand for?|Random Access Memory|Read Access Memory|Rapid Action Memory|Run Access Memory|1|1
+Which device is used to point and click on a computer screen?|Keyboard|Mouse|Scanner|Printer|2|1
+Which software is used to browse the internet?|MS Word|Chrome|Excel|PowerPoint|2|1
+Which of these is an input device?|Printer|Scanner|Monitor|Speaker|2|1
+Which is an example of an operating system?|Windows|MS Word|Chrome|Photoshop|1|1
+Which port is commonly used to connect USB devices?|HDMI|VGA|USB|Ethernet|3|1
+Which key combination is used to copy in Windows?|Ctrl + X|Ctrl + C|Ctrl + V|Ctrl + Z|2|1
+Which device helps to print documents from a computer?|Scanner|Monitor|Printer|Keyboard|3|1
+Which language is used to create web pages?|Python|HTML|C++|Java|2|1
+Which device converts digital signals to analog signals for the internet?|Router|Modem|Switch|Hub|2|1
+Which computer component processes graphics?|CPU|GPU|RAM|Hard Disk|2|1
+Which software is used to create documents?|MS Word|Chrome|Excel|PowerPoint|1|1
+Which type of memory is volatile?|RAM|ROM|Hard Disk|Flash Memory|1|1
+Which device is used to scan documents?|Printer|Scanner|Monitor|Speaker|2|1
+Which is a commonly used web browser?|Firefox|MS Word|PowerPoint|Excel|1|1
+Which of these is hardware?|Windows|Printer|Chrome|Photoshop|2|1
+Which device connects computers in a network?|Switch|Printer|Monitor|Keyboard|1|1
+Which key is used to delete characters to the right of the cursor?|Backspace|Enter|Delete|Shift|3|1
+Which is a popular operating system for mobile devices?|Windows|Android|Linux|DOS|2|1
+Which device stores the operating system and applications permanently?|RAM|ROM|CPU|GPU|2|1
+Which programming language is used for Android app development?|Java|C#|Python|HTML|1|1
+Which device is used to listen to audio from a computer?|Keyboard|Mouse|Speaker|Monitor|3|1
+Which device is essential for video conferencing?|Microphone|Scanner|Printer|Hard Disk|1|1
+Which of these is used to protect a computer from malware?|Antivirus|Word Processor|Spreadsheet|Database|1|1
+Which file format is used for images?|.mp3|.jpg|.txt|.exe|2|1
+Which computer network covers a small area like a home or office?|LAN|WAN|MAN|VPN|1|1
+Which device amplifies the signal to transmit over longer distances?|Repeater|Switch|Router|Hub|1|1
+Which is a commonly used search engine?|Google|Windows|Excel|MS Word|1|1
+Which type of software is MS Excel?|Application software|System software|Utility software|Driver software|1|1
+Which device reads CDs and DVDs?|Scanner|Optical Drive|Hard Disk|USB|2|1
+Which key is used to start a menu in Windows?|Alt|Ctrl|Windows|Shift|3|1
+Which programming language is used for web development along with CSS and JavaScript?|HTML|Python|C++|Java|1|1
+Which component is used to connect a computer to the internet via cable?|Modem|Monitor|Printer|Keyboard|1|1
+Which is the main circuit board of a computer?|CPU|Motherboard|RAM|GPU|2|1
+Which device is used for long-term data storage?|RAM|SSD|CPU|GPU|2|1
+Which of these is used to write programs?|Compiler|Printer|Scanner|Monitor|1|1
+Which device allows wireless connection to a network?|Router|USB|Scanner|Keyboard|1|1
+Which is an example of cloud storage?|Google Drive|MS Word|Chrome|Photoshop|1|1
+Which type of memory is non-volatile?|RAM|ROM|Cache|Registers|2|1
+Which device is used to input text into a computer?|Mouse|Keyboard|Monitor|Speaker|2|1
+Which of these is a spreadsheet application?|MS Excel|MS Word|Chrome|PowerPoint|1|1
+Which component stores data temporarily for fast access?|RAM|ROM|Hard Disk|GPU|1|1
+Which key combination is used to paste in Windows?|Ctrl + C|Ctrl + V|Ctrl + X|Ctrl + Z|2|1
+Which programming language is primarily used for iOS app development?|Swift|Java|Python|C#|1|2
+Which device connects multiple networks together?|Router|Switch|Hub|Modem|1|2
+What does DNS stand for?|Domain Name System|Digital Name Server|Domain Network Service|Data Name System|1|2
+Which of these is a type of malware?|Virus|Firewall|Browser|Router|1|2
+Which protocol is used to send emails?|SMTP|HTTP|FTP|IMAP|1|2
+Which programming language is used for Android apps?|Java|C++|Python|Ruby|1|2
+Which type of memory is used for cache?|RAM|ROM|SRAM|HDD|3|2
+Which software is used to compress files?|WinRAR|MS Word|Excel|Paint|1|2
+Which network topology connects all devices in a circle?|Bus|Ring|Star|Mesh|2|2
+Which device is used to convert digital signals into analog?|Modem|Router|Switch|Hub|1|2
+Which database model stores data in tables?|Relational|Hierarchical|Network|Object-oriented|1|2
+Which of these is an example of cloud computing service?|Google Drive|MS Word|Excel|PowerPoint|1|2
+Which programming language is used for statistical computing?|R|Python|Java|C++|1|2
+Which protocol is used to securely browse the web?|HTTPS|HTTP|FTP|SMTP|1|2
+Which is a server-side scripting language?|PHP|HTML|CSS|JavaScript|1|2
+Which type of malware locks your files until ransom is paid?|Ransomware|Spyware|Adware|Trojan|1|2
+Which layer of the OSI model handles routing?|Network|Transport|Session|Application|1|2
+Which type of storage device is faster?|SSD|HDD|Floppy Disk|CD-ROM|1|2
+Which of these is an IDE for programming?|Visual Studio|MS Word|Excel|PowerPoint|1|2
+Which protocol is used to transfer files?|FTP|SMTP|HTTP|DNS|1|2
+Which programming language is used to style web pages?|CSS|HTML|Java|Python|1|2
+Which device connects multiple devices within a single network?|Switch|Router|Hub|Modem|1|2
+Which type of attack floods a server with traffic to make it unavailable?|DDoS|Phishing|Spoofing|Sniffing|1|2
+Which storage type is non-volatile and used for firmware?|ROM|RAM|Cache|Registers|1|2
+Which programming language is used for web front-end development?|JavaScript|Python|C++|Java|1|2
+Which protocol is used to retrieve emails from a server?|POP3|HTTP|FTP|SMTP|1|2
+Which type of software monitors system performance and errors?|Utility|Application|System|Driver|1|2
+Which is a version control system used by developers?|Git|MS Word|Excel|PowerPoint|1|2
+Which type of malware records keystrokes secretly?|Keylogger|Ransomware|Spyware|Adware|1|2
+Which protocol is used to encrypt communications on the internet?|SSL/TLS|HTTP|FTP|SMTP|1|2
+Which programming language is commonly used for AI development?|Python|Java|C++|C#|1|2
+Which database is NoSQL based?|MongoDB|MySQL|Oracle|SQL Server|1|2
+Which type of network spans a large geographical area?|WAN|LAN|MAN|PAN|1|2
+Which device forwards data packets between networks?|Router|Switch|Hub|Modem|1|2
+Which type of memory is volatile and fast?|RAM|ROM|Cache|SSD|1|2
+Which command is used to check connectivity between two devices?|Ping|Traceroute|Netstat|Ipconfig|1|2
+Which type of programming language is Python?|High-level|Assembly|Machine|Low-level|1|2
+Which protocol is used to synchronize time over the internet?|NTP|SMTP|FTP|HTTP|1|2
+Which type of software helps protect against viruses?|Antivirus|Browser|Word Processor|Spreadsheet|1|2
+Which protocol is used for secure file transfer?|SFTP|FTP|HTTP|SMTP|1|2
+Which device connects a computer to the internet wirelessly?|Wi-Fi Adapter|Ethernet Card|Hub|Switch|1|2
+Which programming paradigm focuses on objects and classes?|OOP|Procedural|Functional|Logic|1|2
+Which type of network device filters traffic for security purposes?|Firewall|Router|Switch|Hub|1|2
+Which is a markup language used for creating web pages?|HTML|CSS|Python|C++|1|2
+Which protocol is used for sending emails securely?|SMTPS|SMTP|HTTP|FTP|1|2
+Which type of malware disguises itself as legitimate software?|Trojan|Virus|Worm|Spyware|1|2
+Which programming language is known for system-level programming?|C|Python|Java|Ruby|1|2
+Which tool is used for network packet analysis?|Wireshark|MS Word|Excel|PowerPoint|1|2
+Which protocol translates domain names into IP addresses?|DNS|HTTP|FTP|SMTP|1|2
+Which device expands the reach of a wireless network?|Repeater|Router|Switch|Hub|1|2
+Which algorithm is used to find the shortest path in a graph?|Dijkstra|Bubble Sort|Quick Sort|Merge Sort|1|3
+Which protocol is used for secure remote login?|SSH|FTP|HTTP|Telnet|1|3
+Which data structure uses LIFO (Last In First Out)?|Stack|Queue|Linked List|Array|1|3
+Which programming language is primarily used for iOS app development?|Swift|Java|Python|C#|1|3
+Which type of database uses key-value pairs?|NoSQL|Relational|Hierarchical|Network|1|3
+Which cryptographic algorithm is asymmetric?|RSA|AES|DES|Blowfish|1|3
+Which sorting algorithm has the best average-case time complexity?|Merge Sort|Bubble Sort|Insertion Sort|Selection Sort|1|3
+Which layer of the OSI model handles encryption and decryption?|Presentation|Network|Transport|Application|1|3
+Which data structure allows insertion and deletion at both ends?|Deque|Stack|Queue|Linked List|1|3
+Which programming paradigm focuses on immutability and pure functions?|Functional|Procedural|OOP|Logic|1|3
+Which protocol is used for sending emails securely over SSL/TLS?|SMTPS|SMTP|IMAP|POP3|1|3
+Which database model stores data as documents instead of tables?|Document-oriented|Relational|Hierarchical|Network|1|3
+Which algorithm is used for finding minimum spanning tree?|Prim's|Dijkstra|Bellman-Ford|Floyd-Warshall|1|3
+Which IP version supports 128-bit addresses?|IPv6|IPv4|IPX|ICMP|1|3
+Which malware replicates itself to spread across systems?|Worm|Virus|Trojan|Spyware|1|3
+Which programming language is used for system-level programming?|C|Python|Java|Ruby|1|3
+Which technique reduces redundancy in relational databases?|Normalization|Denormalization|Indexing|Partitioning|1|3
+Which protocol is used for real-time video and audio streaming?|RTP|HTTP|FTP|SMTP|1|3
+Which data structure uses FIFO (First In First Out)?|Queue|Stack|Array|Linked List|1|3
+Which algorithm is commonly used in routing protocols to find shortest path?|Dijkstra|Merge Sort|Binary Search|KMP|1|3
+Which device forwards data packets between networks?|Router|Switch|Hub|Modem|1|3
+Which programming language is used for statistical computing and graphics?|R|Python|Java|C++|1|3
+Which type of memory is non-volatile but faster than HDD?|SSD|RAM|Cache|ROM|1|3
+Which protocol provides encrypted communication over the Internet?|HTTPS|HTTP|FTP|SMTP|1|3
+Which database uses tables, rows, and columns?|Relational|NoSQL|Document-oriented|Graph|1|3
+Which algorithm is used in public key cryptography?|RSA|AES|DES|Blowfish|1|3
+Which device is used to connect multiple devices in a LAN and manage traffic?|Switch|Router|Hub|Modem|1|3
+Which layer of the OSI model is responsible for logical addressing?|Network|Transport|Data Link|Physical|1|3
+Which algorithm is used in data compression?|Huffman Coding|Dijkstra|Binary Search|Quick Sort|1|3
+Which programming paradigm is based on objects and classes?|OOP|Functional|Procedural|Logic|1|3
+Which protocol resolves domain names to IP addresses?|DNS|HTTP|FTP|SMTP|1|3
+Which type of database relationship allows many-to-many mapping?|Relational|Hierarchical|Network|Document|1|3
+Which type of malware hides itself to avoid detection?|Rootkit|Virus|Worm|Adware|1|3
+Which algorithm is used for searching in a sorted array?|Binary Search|Linear Search|Bubble Sort|Quick Sort|1|3
+Which type of computer memory is fastest?|Cache|RAM|ROM|HDD|1|3
+Which protocol is used to transfer files securely over SSH?|SFTP|FTP|HTTP|SMTP|1|3
+Which data structure allows dynamic memory allocation and efficient insertion?|Linked List|Array|Stack|Queue|1|3
+Which technique is used to prevent deadlock in operating systems?|Banker's Algorithm|Round Robin|First Come First Serve|Shortest Job First|1|3
+Which programming language is commonly used for AI and machine learning?|Python|C++|Java|C#|1|3
+Which cryptography technique uses the same key for encryption and decryption?|Symmetric|Asymmetric|Hashing|Digital Signature|1|3
+Which layer of the OSI model ensures reliable data transfer?|Transport|Network|Session|Application|1|3
+Which protocol is used to fetch emails from a server using SSL?|IMAPS|IMAP|POP3|SMTP|1|3
+Which type of database uses nodes and edges to represent data?|Graph|Relational|Document-oriented|Hierarchical|1|3
+Which technique improves CPU performance by executing multiple instructions simultaneously?|Pipelining|Multithreading|Caching|Interrupts|1|3
+Which algorithm is used for shortest path in weighted graphs with negative edges?|Bellman-Ford|Dijkstra|Floyd-Warshall|Prim's|1|3
+Which device connects multiple networks and directs packets?|Router|Switch|Hub|Repeater|1|3
+Which programming language is known for concurrency support using goroutines?|Go|Python|Java|C++|1|3
+Which protocol is used for sending emails over the Internet without encryption?|SMTP|IMAP|POP3|HTTPS|1|3
+Which layer of the OSI model provides end-to-end communication?|Transport|Network|Data Link|Physical|1|3
+Which data structure is used in implementing recursion efficiently?|Stack|Queue|Array|Linked List|1|3
+

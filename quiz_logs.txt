@@ -1,0 +1,69 @@
+========================================
+Player: Daniyal
+Date & Time: 2025-12-09 21:35:14
+Category: Sports
+Difficulty: Easy
+Questions Correct: 7
+Questions Wrong: 2
+Total Score: 13/10
+========================================
+
+========================================
+Player: Daniyal
+Date & Time: 2025-12-09 21:36:26
+Category: Sports
+Difficulty: Easy
+Questions Correct: 4
+Questions Wrong: 6
+Total Score: -3/10
+========================================
+
+========================================
+Player: zain
+Date & Time: 2025-12-09 21:42:51
+Category: IQ
+Difficulty: Medium
+Questions Correct: 8
+Questions Wrong: 1
+Total Score: 30/10
+========================================
+
+========================================
+Player: Hassan
+Date & Time: 2025-12-10 16:14:45
+Category: Computer
+Difficulty: Easy
+Questions Correct: 2
+Questions Wrong: 8
+Total Score: -14/10
+========================================
+
+========================================
+Player: subhan
+Date & Time: 2025-12-10 16:16:03
+Category: Computer
+Difficulty: Hard
+Questions Correct: 0
+Questions Wrong: 10
+Total Score: -50/10
+========================================
+
+========================================
+Player: gg
+Date & Time: 2025-12-10 16:16:34
+Category: Computer
+Difficulty: Easy
+Questions Correct: 0
+Questions Wrong: 10
+Total Score: -20/10
+========================================
+
+========================================
+Player: subhan
+Date and Time: Dec 14 2025  16:20:54
+Category: Science
+Difficulty: Easy
+Correct: 2 | Wrong: 7
+Score: -12/10
+========================================
+

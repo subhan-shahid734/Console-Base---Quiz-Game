@@ -1,0 +1,4 @@
+﻿  PF LAB PROJECT.cpp
+D:\c+\PF LAB PROJECT QUIZ GAME\PF LAB PROJECT.cpp(95,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c+\PF LAB PROJECT QUIZ GAME\PF LAB PROJECT.cpp(192,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PF LAB PROJECT QUIZ GAME.vcxproj -> D:\c+\PF LAB PROJECT QUIZ GAME\x64\Debug\PF LAB PROJECT QUIZ GAME.exe

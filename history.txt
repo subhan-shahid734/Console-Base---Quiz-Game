@@ -1,0 +1,150 @@
+Who was the first President of the United States?|George Washington|Abraham Lincoln|Thomas Jefferson|John Adams|1|1
+Which empire was ruled by Julius Caesar?|Roman Empire|Ottoman Empire|Mongol Empire|British Empire|1|1
+In which year did World War I begin?|1914|1918|1939|1945|1|1
+Which civilization built the pyramids?|Egyptians|Romans|Greeks|Mesopotamians|1|1
+Who discovered America in 1492?|Christopher Columbus|Vasco da Gama|Ferdinand Magellan|Marco Polo|1|1
+Which wall was built to protect China from invasions?|Great Wall|Hadrian's Wall|Berlin Wall|Western Wall|1|1
+Who was the first emperor of Rome?|Augustus|Julius Caesar|Nero|Caligula|1|1
+Which war was fought between the North and South in the USA?|Civil War|World War I|World War II|Revolutionary War|1|1
+Who was known as the Maid of Orléans?|Joan of Arc|Cleopatra|Elizabeth I|Catherine the Great|1|1
+Which ancient civilization lived in Mesopotamia?|Sumerians|Egyptians|Indians|Chinese|1|1
+Who wrote the Declaration of Independence?|Thomas Jefferson|George Washington|John Adams|Benjamin Franklin|1|1
+Which empire was ruled by Genghis Khan?|Mongol Empire|Roman Empire|Persian Empire|Ottoman Empire|1|1
+Who was the famous queen of Egypt known for her beauty?|Cleopatra|Nefertiti|Hatshepsut|Isis|1|1
+Which event started on October 29, 1929?|Great Depression|World War I|World War II|Cold War|1|1
+Who was the British Prime Minister during World War II?|Winston Churchill|Neville Chamberlain|Clement Attlee|Margaret Thatcher|1|1
+Which revolution started in 1789 in France?|French Revolution|Industrial Revolution|American Revolution|Russian Revolution|1|1
+Who was the leader of the Soviet Union during World War II?|Joseph Stalin|Vladimir Lenin|Nikita Khrushchev|Mikhail Gorbachev|1|1
+Which empire was known for its road network and aqueducts?|Roman Empire|Greek Empire|Mayan Empire|Persian Empire|1|1
+Who invented the printing press?|Johannes Gutenberg|Thomas Edison|Alexander Graham Bell|Leonardo da Vinci|1|1
+Which war ended with the Treaty of Versailles?|World War I|World War II|Cold War|Napoleonic Wars|1|1
+Who was the first man to step on the moon?|Neil Armstrong|Buzz Aldrin|Yuri Gagarin|Michael Collins|1|1
+Which ancient civilization used cuneiform writing?|Sumerians|Romans|Egyptians|Greeks|1|1
+Who was the first emperor of China?|Qin Shi Huang|Sun Yat-sen|Mao Zedong|Confucius|1|1
+Which empire was defeated at the Battle of Hastings in 1066?|Anglo-Saxons|Romans|Vikings|Normans|1|1
+Who was the last pharaoh of Egypt?|Cleopatra|Tutankhamun|Ramses II|Akhenaten|1|1
+Which event marked the beginning of the Middle Ages?|Fall of Rome|French Revolution|Discovery of America|Industrial Revolution|1|1
+Who was the famous Carthaginian general in the Punic Wars?|Hannibal|Scipio|Julius Caesar|Alexander|1|1
+Which country did Napoleon Bonaparte rule?|France|Spain|Italy|Germany|1|1
+Who was known as the “Father of History”?|Herodotus|Plato|Aristotle|Socrates|1|1
+Which wall divided Berlin from 1961 to 1989?|Berlin Wall|Great Wall|Hadrian's Wall|Western Wall|1|1
+Who was the first President of Pakistan?|Muhammad Ali Jinnah|Liaquat Ali Khan|Ayub Khan|Zulfikar Ali Bhutto|1|1
+Which ship sank in 1912 after hitting an iceberg?|Titanic|Lusitania|Britannic|Queen Mary|1|1
+Who painted the ceiling of the Sistine Chapel?|Michelangelo|Leonardo da Vinci|Raphael|Donatello|1|1
+Which war was fought between Britain and its American colonies?|American Revolutionary War|Civil War|World War I|World War II|1|1
+Who was the first woman to fly solo across the Atlantic Ocean?|Amelia Earhart|Harriet Quimby|Sally Ride|Valentina Tereshkova|1|1
+Which empire was known for the Code of Hammurabi?|Babylonian|Roman|Greek|Egyptian|1|1
+Who discovered penicillin?|Alexander Fleming|Louis Pasteur|Marie Curie|Gregor Mendel|1|1
+Which battle marked the end of Napoleon’s rule?|Waterloo|Hastings|Trafalgar|Marathon|1|1
+Who was the Prime Minister of the UK during World War I?|David Lloyd George|Winston Churchill|Neville Chamberlain|Clement Attlee|1|1
+Which empire built Machu Picchu?|Inca|Mayan|Aztec|Olmec|1|1
+Who led the Indian independence movement against British rule?|Mahatma Gandhi|Jawaharlal Nehru|Subhas Chandra Bose|Bhagat Singh|1|1
+Which city was the capital of the Byzantine Empire?|Constantinople|Rome|Athens|Cairo|1|1
+Who was the first emperor of the Roman Empire?|Augustus|Julius Caesar|Nero|Caligula|1|1
+Which battle ended the American Civil War?|Appomattox Court House|Gettysburg|Antietam|Fort Sumter|1|1
+Who wrote “The History of the Peloponnesian War”?|Thucydides|Herodotus|Plato|Aristotle|1|1
+Which country was ruled by the Tsars?|Russia|Germany|France|England|1|1
+Who invented the telescope?|Galileo Galilei|Isaac Newton|Copernicus|Ptolemy|1|1
+Which war was fought between the British and Zulu Kingdom?|Anglo-Zulu War|Crimean War|Boer War|Opium War|1|1
+Who led the Soviet Union during the Cuban Missile Crisis?|Nikita Khrushchev|Joseph Stalin|Leonid Brezhnev|Vladimir Lenin|1|1
+Which treaty ended World War I?|Treaty of Versailles|Treaty of Paris|Treaty of Tordesillas|Treaty of Ghent|1|1
+Who was the first Emperor of the Mughal Empire?|Babur|Akbar|Shah Jahan|Aurangzeb|1|2
+Which revolution occurred in Russia in 1917?|Russian Revolution|French Revolution|Industrial Revolution|Chinese Revolution|1|2
+Who was the leader of Nazi Germany during World War II?|Adolf Hitler|Joseph Stalin|Benito Mussolini|Winston Churchill|1|2
+Which empire was ruled by Suleiman the Magnificent?|Ottoman Empire|Roman Empire|Mongol Empire|Persian Empire|1|2
+Which battle marked Napoleon's final defeat?|Battle of Waterloo|Battle of Trafalgar|Battle of Leipzig|Battle of Austerlitz|1|2
+Who was the founder of the Mongol Empire?|Genghis Khan|Kublai Khan|Ogedei Khan|Tamerlane|1|2
+Which event triggered the start of World War I?|Assassination of Archduke Franz Ferdinand|Invasion of Poland|Bombing of Pearl Harbor|Fall of Berlin Wall|1|2
+Who was the Prime Minister of the UK at the start of World War II?|Neville Chamberlain|Winston Churchill|Clement Attlee|Anthony Eden|1|2
+Which civilization built the city of Machu Picchu?|Inca|Maya|Aztec|Olmec|1|2
+Who was the first female pharaoh of Egypt?|Hatshepsut|Cleopatra|Nefertiti|Merneith|1|2
+Which war was fought between the British and the French in North America?|French and Indian War|Seven Years' War|Napoleonic Wars|American Revolutionary War|1|2
+Which empire was known for its legal code called the Code of Hammurabi?|Babylonian|Assyrian|Persian|Roman|1|2
+Who led the Indian independence movement using nonviolent resistance?|Mahatma Gandhi|Jawaharlal Nehru|Subhas Chandra Bose|Bhagat Singh|1|2
+Which event began on July 14, 1789, in France?|Storming of the Bastille|Reign of Terror|Napoleon’s Coup|French Revolution|1|2
+Who was the last emperor of the Byzantine Empire?|Constantine XI|Justinian I|Theodosius II|Alexios I|1|2
+Which war ended with the signing of the Treaty of Paris in 1783?|American Revolutionary War|Seven Years' War|World War I|World War II|1|2
+Who was the founder of the Safavid Empire?|Ismail I|Babur|Akbar|Shah Jahan|1|2
+Which battle in 1066 led to Norman control of England?|Battle of Hastings|Battle of Agincourt|Battle of Bosworth|Battle of Tours|1|2
+Which document limited the power of the English monarch in 1215?|Magna Carta|Bill of Rights|English Constitution|Petition of Right|1|2
+Who was the famous queen during England's Golden Age?|Elizabeth I|Mary I|Victoria|Anne|1|2
+Which empire built the Colosseum in Rome?|Roman Empire|Greek Empire|Persian Empire|Egyptian Empire|1|2
+Which leader issued the Edict of Milan, granting religious freedom?|Constantine the Great|Theodosius I|Diocletian|Augustus|1|2
+Which war was fought between the North and South in the United States?|American Civil War|Revolutionary War|World War I|World War II|1|2
+Who was the first President of independent India?|Rajendra Prasad|Jawaharlal Nehru|Mahatma Gandhi|Indira Gandhi|1|2
+Which empire was ruled by Cyrus the Great?|Persian Empire|Mongol Empire|Roman Empire|Greek Empire|1|2
+Which event led to the end of the Roman Republic?|Assassination of Julius Caesar|Fall of Constantinople|Battle of Actium|Punitive Wars|1|2
+Who led the Bolshevik Revolution in 1917?|Vladimir Lenin|Joseph Stalin|Leon Trotsky|Nikita Khrushchev|1|2
+Which civilization built the ancient city of Petra?|Nabateans|Romans|Egyptians|Greeks|1|2
+Which king was executed during the English Civil War?|Charles I|Charles II|Henry VIII|James I|1|2
+Which explorer first circumnavigated the globe?|Ferdinand Magellan|Christopher Columbus|Vasco da Gama|James Cook|1|2
+Which empire was known for its impressive road system and aqueducts?|Roman Empire|Inca Empire|Persian Empire|Mongol Empire|1|2
+Who was the founder of the Ottoman Empire?|Osman I|Suleiman I|Mehmed II|Selim I|1|2
+Which city was the capital of the Aztec Empire?|Tenochtitlan|Cuzco|Teotihuacan|Chichen Itza|1|2
+Which treaty ended the Thirty Years' War?|Treaty of Westphalia|Treaty of Versailles|Treaty of Ghent|Treaty of Paris|1|2
+Who led the French army during the Hundred Days?|Napoleon Bonaparte|Louis XVI|Maximilien Robespierre|Charles de Gaulle|1|2
+Which ancient civilization is known for the Hanging Gardens?|Babylonian|Egyptian|Greek|Roman|1|2
+Which war was fought between France and Prussia in 1870?|Franco-Prussian War|Napoleonic War|Seven Years' War|Crimean War|1|2
+Who was the ruler of Egypt during the construction of the Great Pyramid of Giza?|Khufu|Ramses II|Tutankhamun|Cleopatra|1|2
+Which event marked the beginning of the Renaissance?|Fall of Constantinople|French Revolution|Discovery of America|End of the Hundred Years' War|1|2
+Who was the famous philosopher during the Enlightenment?|Voltaire|Plato|Aristotle|Socrates|1|2
+Which empire was defeated in the Battle of Carrhae?|Romans|Persians|Greeks|Egyptians|1|2
+Who was the famous queen of France executed during the French Revolution?|Marie Antoinette|Catherine de Medici|Elizabeth I|Anne Boleyn|1|2
+Which event led to the start of World War II?|Invasion of Poland|Assassination of Archduke Franz Ferdinand|Fall of Berlin Wall|Bombing of Pearl Harbor|1|2
+Which battle marked the fall of the Byzantine Empire in 1453?|Fall of Constantinople|Battle of Tours|Battle of Hastings|Battle of Lepanto|1|2
+Who was the ruler of the Mughal Empire during its greatest expansion?|Aurangzeb|Akbar|Shah Jahan|Babur|1|2
+Which treaty ended the Seven Years’ War?|Treaty of Paris|Treaty of Versailles|Treaty of Ghent|Treaty of Westphalia|1|2
+Who wrote “The Prince”, a political treatise during the Renaissance?|Niccolò Machiavelli|Thomas More|John Locke|Jean-Jacques Rousseau|1|2
+Which war resulted in the unification of Germany in 1871?|Franco-Prussian War|Austro-Prussian War|Napoleonic Wars|Crimean War|1|2
+Which dynasty ruled China during the construction of the Great Wall?|Qin Dynasty|Han Dynasty|Ming Dynasty|Tang Dynasty|1|2
+Which empire was defeated at the Battle of Actium?|Ptolemaic Egypt|Roman Empire|Persian Empire|Macedonian Empire|1|2
+Who was the general who crossed the Alps with elephants to attack Rome?|Hannibal|Scipio|Julius Caesar|Alexander the Great|1|3
+Which year did the Berlin Wall fall?|1989|1991|1987|1990|1|3
+Which civilization created the first written legal code?|Babylonians|Romans|Sumerians|Egyptians|1|3
+Who was the leader of the Soviet Union during the Great Purge?|Joseph Stalin|Vladimir Lenin|Nikita Khrushchev|Leon Trotsky|1|3
+Which empire was known as the “Land of the Rising Sun”?|Japan|China|Korea|Mongol Empire|1|3
+Which document established the United States Constitution?|Constitutional Convention|Bill of Rights|Declaration of Independence|Articles of Confederation|1|3
+Which battle ended Napoleon’s campaign in Russia?|Battle of Leipzig|Battle of Borodino|Battle of Waterloo|Battle of Austerlitz|1|3
+Who founded the Persian Empire?|Cyrus the Great|Darius I|Xerxes|Artaxerxes|1|3
+Which conflict was known as “The Great War”?|World War I|World War II|Napoleonic Wars|Crimean War|1|3
+Who was the first emperor of the Holy Roman Empire?|Charlemagne|Otto I|Frederick I|Henry IV|1|3
+Which explorer completed the first circumnavigation of the globe?|Ferdinand Magellan|Christopher Columbus|Vasco da Gama|James Cook|1|3
+Which event sparked the Reformation in 1517?|Martin Luther’s 95 Theses|Council of Trent|Diet of Worms|Peace of Augsburg|1|3
+Who was the ruler of the Ottoman Empire during the Siege of Vienna in 1683?|Khan Suleiman II|Suleiman the Magnificent|Mehmed IV|Selim II|1|3
+Which treaty ended the Thirty Years’ War?|Treaty of Westphalia|Treaty of Paris|Treaty of Versailles|Treaty of Ghent|1|3
+Which civilization built Chichen Itza?|Maya|Aztec|Inca|Olmec|1|3
+Who was the last emperor of the Roman Empire in the West?|Romulus Augustulus|Julius Caesar|Augustus|Constantine XI|1|3
+Which war ended with the Treaty of Nanking in 1842?|First Opium War|Second Opium War|Crimean War|Franco-Prussian War|1|3
+Which ruler expanded the Mongol Empire the most?|Genghis Khan|Kublai Khan|Ogedei Khan|Tamerlane|1|3
+Who was the Prime Minister of Britain during the Suez Crisis?|Anthony Eden|Winston Churchill|Clement Attlee|Harold Macmillan|1|3
+Which empire constructed the Parthenon?|Ancient Greece|Roman Empire|Persian Empire|Egyptians|1|3
+Who was the leader of the Bolsheviks during the October Revolution?|Vladimir Lenin|Joseph Stalin|Leon Trotsky|Nikolai Bukharin|1|3
+Which war was triggered by the assassination of Archduke Franz Ferdinand?|World War I|World War II|Crimean War|Franco-Prussian War|1|3
+Which ancient civilization created the Rosetta Stone?|Egyptians|Greeks|Romans|Persians|1|3
+Who was the ruler of France during the Reign of Terror?|Robespierre|Louis XVI|Napoleon Bonaparte|Henry IV|1|3
+Which battle marked the end of the Napoleonic Wars?|Waterloo|Austerlitz|Borodino|Leipzig|1|3
+Which empire controlled much of South America before Spanish conquest?|Inca|Maya|Aztec|Olmec|1|3
+Who led the Indian Rebellion of 1857 against the British?|Rani Lakshmibai|Mahatma Gandhi|Subhas Chandra Bose|Tipu Sultan|1|3
+Which empire was ruled by Cyrus, Darius, and Xerxes?|Persian Empire|Roman Empire|Greek Empire|Mongol Empire|1|3
+Who was the first President of the Republic of Turkey?|Mustafa Kemal Atatürk|Sukarno|Mohammad Ali Jinnah|Reza Shah|1|3
+Which historical period followed the fall of the Western Roman Empire?|Middle Ages|Renaissance|Enlightenment|Industrial Revolution|1|3
+Which ancient civilization built Stonehenge?|Neolithic Britons|Romans|Celts|Egyptians|1|3
+Who wrote “The Communist Manifesto”?|Karl Marx|Friedrich Engels|Lenin|Trotsky|1|3
+Which treaty ended World War II in Europe?|Treaty of Paris|Treaty of Versailles|Yalta Conference|Potsdam Agreement|3|3
+Which empire was known for its naval dominance in the Mediterranean during the 16th century?|Ottoman Empire|Spanish Empire|Venetian Empire|Portuguese Empire|1|3
+Who was the leader of the Nationalist forces during the Chinese Civil War?|Chiang Kai-shek|Mao Zedong|Sun Yat-sen|Deng Xiaoping|1|3
+Which event marked the end of the medieval period in Europe?|Fall of Constantinople|Discovery of America|French Revolution|Reformation|1|3
+Which dynasty ruled China during the Opium Wars?|Qing Dynasty|Ming Dynasty|Song Dynasty|Tang Dynasty|1|3
+Who was the first Emperor of Japan?|Emperor Jimmu|Emperor Meiji|Emperor Hirohito|Emperor Komei|1|3
+Which conflict is also known as the Great Northern War?|Sweden vs Russia|Napoleonic Wars|Thirty Years’ War|Seven Years’ War|1|3
+Who was the famous military leader during the Crusades?|Richard the Lionheart|Saladin|Charlemagne|William the Conqueror|1|3
+Which empire was known for the construction of the Hagia Sophia?|Byzantine Empire|Ottoman Empire|Roman Empire|Persian Empire|1|3
+Which event led to the establishment of the United Nations?|End of World War II|End of World War I|Cold War|Korean War|1|3
+Which English king was overthrown during the Glorious Revolution?|James II|Charles I|Henry VIII|Edward VI|1|3
+Who was the leader of the Cuban Revolution?|Fidel Castro|Che Guevara|Raul Castro|Hugo Chávez|1|3
+Which empire built the city of Persepolis?|Persian Empire|Greek Empire|Roman Empire|Mongol Empire|1|3
+Which naval battle stopped Napoleon’s invasion plans of Britain?|Battle of Trafalgar|Battle of Waterloo|Battle of Austerlitz|Battle of Leipzig|1|3
+Which period in European history is known for humanism and art?|Renaissance|Middle Ages|Reformation|Enlightenment|1|3
+Who was the last Tsar of Russia?|Nicholas II|Alexander III|Peter the Great|Ivan IV|1|3
+Which revolution led to the creation of the Soviet Union?|Russian Revolution|French Revolution|Industrial Revolution|American Revolution|1|3
+Which ancient civilization used hieroglyphics for writing?|Egyptians|Sumerians|Greeks|Romans|1|3
